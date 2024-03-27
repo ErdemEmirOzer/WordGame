@@ -1,0 +1,15 @@
+
+{
+  "bundles": [
+    
+    {
+      "name": "fonts",
+      "assets": [
+        {
+          "name": "font",
+          "srcs": "assets//Sniglet-Regular.ttf"
+        }
+      ]
+    }
+  ]
+}
